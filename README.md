@@ -1,4 +1,4 @@
-Sentiment Analysis of Steam Game Reviews Using BERT
+### Sentiment Analysis of Steam Game Reviews Using BERT
 
 I developed a sentiment analysis model to evaluate the purchasability of games by analyzing user reviews from the Steam platform.
 
