@@ -2,7 +2,7 @@
 
 I developed a sentiment analysis model to evaluate the purchasability of games by analyzing user reviews from the Steam platform. More specifically, I examined Steam reviews for the RPG Bellwright. 
 
-My broader goal was to access a degree of interpretability of the BERT model to gauge what words/phrases are most strongly associated with recommendations and non-recommendations, thus allowing me to determine whether it'd be right for me to buy the game. (My hope was to figure that out before the Steam 2024 summer sale ended.)
+My broader goal was to access a degree of interpretability of the BERT model to gauge what words/phrases are most strongly associated with recommendations and non-recommendations, thus allowing me to determine whether it'd be right for me to buy the game. (My hope was to figure that out before the Steam 2024 summer sale ended. I didn't.)
 
 Data Acquisition and Preprocessing:
 - Scraped and collected game reviews using Python, handling data extraction and storage.
