@@ -21,7 +21,3 @@ Model Implementation:
 Model Training and Evaluation:
 - Performed an 80-20 train-validation split to evaluate model performance.
 - Monitored training progress by tracking loss and accuracy metrics.
-
-Analysis and Visualization:
-- Identified key words and phrases associated with positive and negative sentiments through model analysis.
-- Created visualizations to summarize review sentiments and highlight common themes influencing game recommendations.
