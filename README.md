@@ -5,7 +5,7 @@ I developed a sentiment analysis model to evaluate the purchasability of games b
 My broader goal was to access a degree of interpretability of the BERT model to gauge what words/phrases are most strongly associated with recommendations and non-recommendations, thus allowing me to determine whether it'd be right for me to buy the game. (My hope was to figure that out before the Steam 2024 summer sale ended. I didn't.)
 
 Data Acquisition and Preprocessing:
-- Scraped and collected game reviews using Python, handling data extraction and storage.
+- Scraped and collected game reviews using Python.
 - Cleaned and preprocessed textual data by removing punctuation, handling whitespace, and truncating long reviews to accommodate BERT’s input requirements.
 - Converted categorical labels into numerical format for binary classification (recommended vs. not recommended).
 
